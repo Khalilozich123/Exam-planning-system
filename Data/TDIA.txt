@@ -1,0 +1,22 @@
+TDIA,S1,Architecture d'entreprise,TDIA111
+TDIA,S1,BDD,TDIA112
+TDIA,S1,Anglais,TDIA113
+TDIA,S1,Architecture des ordinateurs,TDIA114
+TDIA,S1,Soft Skills 1,TDIA115
+TDIA,S1,Francais,TDIA116
+TDIA,S1,C avancee,TDIA117
+TDIA,S1,Theorie des langages,TDIA118
+TDIA,S2,OOP JAVA,TDIA121
+TDIA,S2,Python,TDIA122
+TDIA,S2,Developpement web,TDIA123
+TDIA,S2,Gestion de projets,TDIA124
+TDIA,S2,Business Marketing,TDIA125
+TDIA,S2,Industrie de numerique,TDIA126
+TDIA,S3,UML,TDIA211
+TDIA,S3,Cloud Computing,TDIA212
+TDIA,S3,Business English,TDIA213
+TDIA,S3,Francais Professionnel,TDIA214
+TDIA,S3,Cartographie des systemes d'infos,TDIA215
+TDIA,S3,Bases de l'intelligence artificielle,TDIA216
+TDIA,S3,Soft Skills 2,TDIA217
+TDIA,S3,Gestion de projets digitaux,TDIA218

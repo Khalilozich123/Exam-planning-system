@@ -1,0 +1,25 @@
+Salle 1 BLOC A
+Salle 2 BLOC A
+Salle 3 BLOC A
+Salle 4 BLOC A
+Salle 5 BLOC A
+Salle 6 BLOC A
+Salle 7 BLOC A
+Salle 8 BLOC A
+Salle 9 BLOC A
+Salle 10 BLOC A
+Salle 11 BLOC A
+Salle 12 BLOC A
+Salle 13 BLOC A
+Salle 14 BLOC A
+Salle 15 BLOC A
+Salle 16 BLOC A
+Salle 17 BLOC A
+Salle 1 BLOC B
+Salle 2 BLOC B
+Salle 3 BLOC B
+Salle 4 BLOC B
+Salle 5 BLOC B
+Salle 6 BLOC B
+Amphi A
+Amphi B

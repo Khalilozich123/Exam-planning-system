@@ -1,0 +1,36 @@
+GI,S1,Culture and art skills,GI111
+GI,S1,Francais,GI112
+GI,S1,Anglais,GI113
+GI,S1,Resaux informatiques,GI114
+GI,S1,Architecture des ordinateurs,GI115
+GI,S1,BDD,GI116
+GI,S1,C avancee,GI117
+GI,S1,Theorie des graphes,GI118
+GI,S2,Architecture logicielle/UML,GI121
+GI,S2,Web 1,GI122
+GI,S2,C++,GI123
+GI,S2,Theorie de langages,GI124
+GI,S2,Algorithmique avancee,GI125
+GI,S2,Entreprenariat 1,GI126
+GI,S3,Python pour les donnees,GI211
+GI,S3,Linux,GI212
+GI,S3,Administration reseaux,GI213
+GI,S3,Administration BDD,GI214
+GI,S3,Professional english 2,GI215
+GI,S3,Programmation JAVA avancee,GI216
+GI,S3,Francais 2,GI217
+GI,S3,Espagnole 2,GI218
+GI,S4,Entreprenariat 2,GI221
+GI,S4,Machine Learning,GI222
+GI,S4,Gestion de projet,GI223
+GI,S4,Genie logiciel,GI224
+GI,S4,Crypto-systemes,GI225
+GI,S4,Securite informatique,GI226
+GI,S4,Frameworks JAVA,GI227
+GI,S5,Ingenierie logicielle,GI311
+GI,S5,Dev des applcations mobiles,GI312
+GI,S5,DAM,GI313
+GI,S5,Systeme embarque,GI314
+GI,S5,Virtualisation et cloud computing,GI315
+GI,S5,ERP,GI316
+GI,S5,Gestion Financiere,GI317

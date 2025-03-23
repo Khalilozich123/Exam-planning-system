@@ -1,0 +1,35 @@
+ID,S1,Bases de donnees SQL,ID111
+ID,S1,Analyse numerique matricielle,ID112
+ID,S1,Statistique inferentielle,ID113
+ID,S1,Systemes d'exploitation,ID114
+ID,S1,Francais,ID115
+ID,S1,Anglais,ID116
+ID,S1,Architecture des ordinateurs,ID117
+ID,S1,C avancee,ID118
+ID,S1,Competences culturelles et artistiques,ID119
+ID,S1,Theorie des langages et compilation,ID1110
+ID,S2,Programmation Python et Web,ID121
+ID,S2,Data Mining,ID122
+ID,S2,Statistique en grande dimension,ID123
+ID,S2,Entreprenariat I,ID124
+ID,S2,OOP Java,ID125
+ID,S2,Administration et optimisation BDD,ID126
+ID,S3,Machine Learning,ID231
+ID,S3,Stochastique,ID232
+ID,S3,UML,ID233
+ID,S3,Big Data I,ID234
+ID,S3,Francais 2,ID235
+ID,S3,Anglais 2,ID236
+ID,S3,BDD avancees,ID237
+ID,S4,Big Data Avancees,ID241
+ID,S4,Deep Learning,ID242
+ID,S4,Data Warehouse et Data Lake,ID243
+ID,S4,Applications Web avancees avec Java et Spring,ID244
+ID,S4,TAL,ID245
+ID,S4,Entreprenariat 2,ID246
+ID,S5,Transformation Digital,ID351
+ID,S5,Social Network Mining,ID352
+ID,S5,Business Intelligence et Veille Strategique,ID353
+ID,S5,Big Data Visualisation et Cloud Computing,ID354
+ID,S5,Entreprenariat 3,ID355
+ID,S5,Web Marketing et CRM,ID356
