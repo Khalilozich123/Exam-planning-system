@@ -57,8 +57,8 @@ The application is built using standard and external C libraries:
 
 ## 🧑‍💻 Authors
 
-- [HAMIMID Khalil](#)
-- [BEN TALEB Fatima Zahrae](#)
+- [HAMIMID Khalil](https://github.com/Khalilozich123)
+- [BEN TALEB Fatima Zahrae](https://github.com/fatimazahra-bentaleb)
 - [EL FADEL Soufiane](#)
 
 ## 🎓 Supervised by
